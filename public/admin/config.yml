@@ -2,7 +2,7 @@ backend:
   name: github
   repo: ubillanibal/portfolio-anibal
   branch: main
-  base_url: https://my-portfolio.ubilla-anibal.workers.dev
+  base_url: https://ubilla.pages.dev/
   auth_endpoint: /api/auth
 
 media_folder: public/images
